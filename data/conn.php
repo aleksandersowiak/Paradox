@@ -3,8 +3,8 @@ header('Content-Type: text/html; charset=utf-8');
 
 $serwer = "localhost";
 $baza = "garota_paradox";
-$uzytkownik = "garota_paradox";
-$haslo = "niepodam";
+$uzytkownik = "root";
+$haslo = "r00t";
 
 $polaczenie = mysql_connect($serwer, $uzytkownik, $haslo)
 or die('Nie udało się połączyć z bazą danych. '.mysql_error());
