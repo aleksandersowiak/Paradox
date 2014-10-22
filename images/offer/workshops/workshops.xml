@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+<photo id_photo="1">1
+<albume album=""/>
+<adress link="images/offer/workshops/1.jpg">gallery/offer/workshops/1.jpg</adress>
+<date data="2012-Jun-19">2012-Jun-19</date>
+</photo>
+<photo id_photo="2">2
+<albume album=""/>
+<adress link="images/offer/workshops/2.jpg">gallery/offer/workshops/2.jpg</adress>
+<date data="2012-Jun-19">2012-Jun-19</date>
+</photo>
+<photo id_photo="3">3
+<albume album=""/>
+<adress link="images/offer/workshops/3.jpg">gallery/offer/workshops/3.jpg</adress>
+<date data="2012-Jun-19">2012-Jun-19</date>
+</photo>
+<photo id_photo="4">4
+<albume album=""/>
+<adress link="images/offer/workshops/4.jpg">gallery/offer/workshops/4.jpg</adress>
+<date data="2012-Jun-19">2012-Jun-19</date>
+</photo>
+</bookstore>
